@@ -2,7 +2,7 @@
 import string
 import keyword
 Lpunctuation=str(string.punctuation.replace("_"," "))
-var="uu uu9"
+var="uu uu"
 var_lower=var.islower()
 i=0
 print(var,"=>", end="")
